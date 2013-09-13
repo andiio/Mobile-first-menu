@@ -7,6 +7,6 @@ Demo: http://cdpn.io/gspxJ
 
  In the wild:  
 
- http://vanamco.com/ 
- http://mailchimp.com/ 
- http://www.teehanlax.com/
+ 1. http://vanamco.com/ 
+ 1. http://mailchimp.com/ 
+ 1. http://www.teehanlax.com/
