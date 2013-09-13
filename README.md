@@ -10,3 +10,5 @@ Demo: http://cdpn.io/gspxJ
  1. http://vanamco.com/ 
  1. http://mailchimp.com/ 
  1. http://www.teehanlax.com/
+
+![Image](https://raw.github.com/andiio/Mobile-first-menu/master/mobile-menu.gif)
